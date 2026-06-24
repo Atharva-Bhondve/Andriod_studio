@@ -43,7 +43,8 @@
             android:layout_height="80dp"
             android:text="@string/c"
             android:textColorLink="#2CA5AB"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnModulus"
@@ -51,7 +52,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/modulus"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnBack"
@@ -59,7 +61,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/x"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnPlus"
@@ -68,7 +71,8 @@
             android:layout_height="80dp"
             android:text="@string/plus"
             android:textColorLink="#2196F3"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
 
     </LinearLayout>
@@ -84,7 +88,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_7"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnEight"
@@ -92,7 +97,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_8"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnNine"
@@ -100,7 +106,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_9"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnSub"
@@ -108,7 +115,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/sub"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
 
     </LinearLayout>
@@ -124,7 +132,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_4"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnFive"
@@ -132,7 +141,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_5"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnSix"
@@ -140,7 +150,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_6"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnMultiplication"
@@ -148,7 +159,8 @@
             android:layout_width="71dp"
             android:layout_height="80dp"
             android:text="@string/multiplication"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
 
     </LinearLayout>
@@ -164,7 +176,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_1"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnTwo"
@@ -172,7 +185,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_2"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnThree"
@@ -180,7 +194,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_3"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnDivision"
@@ -188,7 +203,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/division"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
     </LinearLayout>
 
@@ -204,7 +220,8 @@
             android:layout_marginStart="20dp"
             android:layout_marginEnd="20dp"
             android:text="@string/_00"
-            android:textSize="25sp" />
+            android:textSize="25sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnZero"
@@ -212,7 +229,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/_0"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnDot"
@@ -220,7 +238,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/dot"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
         <Button
             android:id="@+id/btnAnswer"
@@ -228,7 +247,8 @@
             android:layout_width="70dp"
             android:layout_height="80dp"
             android:text="@string/Answer"
-            android:textSize="40sp" />
+            android:textSize="40sp"
+            android:background="@drawable/button_bg"/>
 
 
     </LinearLayout>
